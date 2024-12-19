@@ -1,6 +1,5 @@
 ---
 layout: default
-title: DropHelper & TGDAO Hub Roadmap
 ---
 
 <link rel="stylesheet" type="text/css" href="style.css">
